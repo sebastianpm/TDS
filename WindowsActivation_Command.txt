@@ -1,0 +1,3 @@
+Desde la ruta en la que se instalo el agente como por ejemplo , se debe ejecutar lo siguiente:
+
+"C:\Program Files\Trend Micro\Deep Security Agent\dsa_control" -a dsm://agents.deepsecurity.trendmicro.com:443/ "tenantID:B4D4BD68-88C3-CD32-89D7-BF7D87CDC2BE" "token:E223D878-53D3-27DA-B5BF-EC1391174F28"
